@@ -3,4 +3,4 @@
 [Анкета на вакансию](https://r34son.github.io/about)
 
 
-[Dotabuff](https://dotabuff.github.io)
+[Dotabuff](https://r34son.github.io/dotabuff)
