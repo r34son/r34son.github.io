@@ -4,7 +4,7 @@
 
 Выполненное тестовое задание на вакансию верстальщик.
 
-[Source code](https://github.com/r34son/about)
+[Source code](https://github.com/r34son/about/tree/master)
 
 ***
 [Dotabuff](https://r34son.github.io/dotabuff)
