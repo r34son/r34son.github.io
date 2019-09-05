@@ -12,3 +12,9 @@
 Progressive Web Application - React, React Router, Material-UI.
 
 [Source code](https://github.com/r34son/dotabuff/tree/master)
+
+***
+[Notes](https://r34son.github.io/notes)
+
+Notes application - React, Redux.
+[Source code](https://github.com/r34son/notes/tree/master)
