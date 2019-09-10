@@ -11,6 +11,8 @@
 
 Progressive Web Application - React, React Router, Material-UI.
 
+Required to turn on VPN.
+
 [Source code](https://github.com/r34son/dotabuff/tree/master)
 
 ***
