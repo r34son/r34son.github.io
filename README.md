@@ -21,3 +21,10 @@ Required to turn on VPN.
 Notes application - React, Redux.
 
 [Source code](https://github.com/r34son/notes/tree/master)
+
+***
+[NotesV2.0](https://r34son.github.io/notesv2)
+
+Notes application - React, Material-UI.
+
+[Source code](https://github.com/r34son/notesv2/tree/master)
