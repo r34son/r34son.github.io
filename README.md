@@ -27,4 +27,4 @@ Notes application - React, Redux.
 
 Notes application - React, Material-UI.
 
-[Source code](https://github.com/r34son/notesv2/tree/master)
+[Source code](https://github.com/r34son/notesv2)
